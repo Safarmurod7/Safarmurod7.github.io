@@ -1,1 +1,0 @@
-# Safarmurod7.github.io
