@@ -1,4 +1,4 @@
-      
+      window.onload = function() {
       const snake = document.getElementById("snake");
       let x = 0;
       let y = 0;
@@ -31,3 +31,4 @@
           direction = "right";
         }
       }, 500);
+      }
